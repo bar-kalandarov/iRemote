@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a>
-    <img src="images/logo_transparent.png" alt="Logo" width="100" height="100">
+    <img src="Images/logo_transparent.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">iRemote</h3>
@@ -52,7 +52,7 @@
 ## About The Project
 
 <p align="center">
-    <img src="images/croppedlogo.png" alt="Theme" width="210" height="200">
+    <img src="Images/croppedlogo.png" alt="Theme" width="210" height="200">
 
 This simple application let users to control another computer remotely, mainly intended to make troubleshooting easier.
 <br />
@@ -115,36 +115,19 @@ The project is built with Python 2.7.
 ## Usage
 To start the program, the users have to run <b>ControllerMenu.py</b> and <b>ControlledMenu.py</b> on different computers.
 <p align="center">
-<img src="images/controlled.png" width="500" height="300"/>
+<img src="Images/controlled.png" width="500" height="300"/>
 <br />
 <br />
-<img src="images/controller.png" width="500" height="300"/>
+<img src="Images/controller.png" width="500" height="300"/>
 </p>
 
 <br />
 
 Then the controller user has to fill the required deatils, which are being showed to the controlled user.
 <br />
-<br />
-Connection:
-<br />
-<p align="center">
-<img src="images/connection.gif" width="750" height="500"/>
-</p>
-<br />
-File transfer:
-<br />
-<br />
-<p align="center">
-<img src="images/transfer.gif" width="750" height="500" />
-</p>
-<br />
-Smart Clipboard:
-<br />
-<br />
-<p align="center">
-<img src="images/clipboard.gif" width="750" height="500" />
-</p>
+Here is a short video showing basic use of the software and all of it's functions:
+
+https://user-images.githubusercontent.com/82671706/127203877-d845d10f-f029-45ee-b885-78d8cbec2b7d.mp4
 
 <!-- CONTACT -->
 ## Contact
